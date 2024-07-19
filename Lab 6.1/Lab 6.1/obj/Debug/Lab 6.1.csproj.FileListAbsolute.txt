@@ -1,0 +1,11 @@
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\bin\Debug\Lab 6.1.exe.config
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\bin\Debug\Lab 6.1.exe
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\bin\Debug\Lab 6.1.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab 6.1.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab 6.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab_6._1.Properties.Resources.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab_6._1.StringHandling.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab 6.1.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab 6.1.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab 6.1.exe
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\LABS\Lab 6.1\Lab 6.1\Lab 6.1\obj\Debug\Lab 6.1.pdb
