@@ -1,0 +1,8 @@
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\bin\Debug\Lab 4.2.exe.config
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\bin\Debug\Lab 4.2.exe
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\bin\Debug\Lab 4.2.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\obj\Debug\Lab 4.2.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\obj\Debug\Lab 4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\obj\Debug\Lab 4.2.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\obj\Debug\Lab 4.2.exe
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\class4\Lab 4.2\Lab 4.2\obj\Debug\Lab 4.2.pdb
